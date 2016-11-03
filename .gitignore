@@ -3,7 +3,7 @@
 *.settings/
 .DS_Store
 .classpath
-/build
+*/build/
 /.idea/
 /logs
 *target/
