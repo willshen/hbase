@@ -1,5 +1,6 @@
 /.externalToolBuilders
 .project
+.cproject
 *.settings/
 .DS_Store
 .classpath
