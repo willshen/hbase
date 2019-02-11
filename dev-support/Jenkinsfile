@@ -21,7 +21,7 @@ pipeline {
     }
   }
   triggers {
-    cron('@daily')
+    cron('@monthly')
   }
   options {
     buildDiscarder(logRotator(numToKeepStr: '30'))
